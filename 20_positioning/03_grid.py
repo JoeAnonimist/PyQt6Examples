@@ -12,5 +12,5 @@ if __name__ == '__main__':
     view = QQuickView()
     view.setSource(QUrl('03_grid.qml'))
     view.show()
-    
+        
     sys.exit(app.exec())
